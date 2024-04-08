@@ -1,0 +1,65 @@
+p {
+    font-size: large;
+    color: blue;
+}
+.xxx {
+    font-weight: bold;
+    height: 50px;
+}
+.zzz {
+    color: aquamarine;
+    width: 50px;
+}
+/* class . multiple elements | , to combine */
+/* id # one element */
+#ccc {
+    margin-left: 100px;
+}
+.div1 {
+    color: rebeccapurple;
+    background-color: aqua;
+    padding: 69px;
+    width: 250px;
+    height: 150px;
+    border: 5px salmon solid;
+    position: fixed;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+    text-shadow: 5px rgb(0, 0, 0, 50%);
+}
+.test {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    color: red;
+}
+/* z-index z axys movement*/
+.testoverimg {
+    background-image: url(../../L2/chilling.gif);
+    text-align: center;
+    line-height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: red;
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+}
+.colors {
+    background-color: rgb(0,0,100,0.5);
+    color: #ff69dd;
+}
+/*rbga - 8bit| HEX - 16bit*/
+.extratest {
+    margin-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.extratest > span {
+    font-size: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*element.style*/
+/* p:nth-child() choose element inside element dinamicly
+   2n - even
+   2n+1 - odd */
