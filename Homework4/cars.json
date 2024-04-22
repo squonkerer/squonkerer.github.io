@@ -1,0 +1,7 @@
+{"cars" : [
+    {"Mark":"McLaren", "Color": "Green", "Year": 1998, "Price": 280000, "Sold": false},
+    {"Mark": "Mercedes", "Color": "Silver", "Year": 2001, "Price": 2854369, "Sold": true},
+    {"Mark": "Toyota", "Color": "White", "Year": 1995, "Price": 400000, "Sold": true},
+    {"Mark": "Mazda", "Color": "Blue", "Year": 2005, "Price": 28000, "Sold": false},
+    {"Mark": "Ferrari", "Color": "Red", "Year": 1985, "Price": 5500000, "Sold": true}
+]}
