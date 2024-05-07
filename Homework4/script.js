@@ -6,7 +6,8 @@ let cars = [
     {"Mark": "Ferrari", "Color": "Red", "Year": 1985, "Price": 5500000, "Sold": true},
 ]
 for(let i = 0; i < cars.length; i++)
-     {console.log(cars[i])} 
+     {console.log(cars[i])}
+     // console.log("Available: " + (cars.Sold ? "yes" : "no")) 
 
          /*if (cars == false) {
             print("Sold");
